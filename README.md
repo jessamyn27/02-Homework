@@ -176,4 +176,4 @@ You are required to submit the following for review:
 
 ---
 <br>
-**[Back Up To Top](##-Code-Refactor-in-HTML-and-CSS)**<br>
+**[Back Up To Top](##-Code-Refactor-in-HTML-and-CSS)**
