@@ -21,6 +21,8 @@
 **[🌵 Bonus](#🌵-Bonus)**<br>
 **[👽 Deliverables](#👽-Deliverables)**<br>
 **[🐿️ License](#🐿️-License)**<br>
+**[License](#License)**<br>
+
 
 ## <br>
 
@@ -165,7 +167,7 @@ You are required to submit the following for review:
 
 ---
 
-### 🐿️ License
+### License
 
 ---
 
