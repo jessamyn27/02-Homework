@@ -173,6 +173,7 @@ You are required to submit the following for review:
 
 <br>
 <br>
-<br>
+
 ---
+<br>
 **[Back Up To Top](##-Code-Refactor-in-HTML-and-CSS)**<br>
