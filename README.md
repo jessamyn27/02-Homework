@@ -2,11 +2,8 @@
 
 #### Code Refactor Challenge using html5, css, semantic style guides, accessiblity standards
 
-## <br>
 
 ## Table of Contents
-
-## <br>
 
 **[Quick Links](#Quick-Links)**<br>
 **[First Looks](#First-Looks)**<br>
@@ -18,8 +15,6 @@
 **[Deliverables](#Deliverables)**<br>
 **[License](#License)**<br>
 
-## <br>
-
 ## Quick Links
 
 - click here to view -->[final website](https://jessamyn27.github.io/02-Homework/)
@@ -28,23 +23,19 @@
 
 - click here to view --> [README GUIDE from UT](https://github.com/the-Coding-Boot-Camp-at-UT/UTA-VIRT-FSF-FT-06-2021-U-LOL/blob/master/01-HTML-Git-CSS/02-Homework/Homework-Guide/README.md)
 
-## <br>
 
 ## First Looks
 
 # ![](assets/screenshots/website.png)
 
-## <br>
 
 ## Wireframes
 
-## <br>
 
 ## Bugs and Known Issues
 
 - Not responsive, links push out of container on lower width
 
-## <br>
 
 ## Next Steps to Continue
 
@@ -53,7 +44,6 @@
 - More responsive
 - Text is not easy to read, consider color and/or size change
 
-## <br>
 
 ### Next Steps for Code
 
@@ -65,7 +55,6 @@
 - Create more reusable classes and class combos in CSS
 - Set more standards for basic elements in CSS
 
-## <br>
 
 ## Acceptance Criteria
 
@@ -110,7 +99,7 @@ You are required to submit the following for review:
 
 - The URL of the GitHub repository, with a unique name and a README that describes the project.
 
-## <br>
+
 
 ### Bonus
 
@@ -120,7 +109,6 @@ You are required to submit the following for review:
 - 4. Use JSDocs 3 pattern for comments
 - 5. Write a list of bugs or known issues for your implementation if needed
 
-## <br>
 
 ### Deliverables
 
@@ -133,6 +121,5 @@ You are required to submit the following for review:
 
 [MIT License](https://opensource.org/licenses/MIT)
 
-## <br>
 
 **[Back Up To Top](#Code-Refactor-in-HTML-and-CSS)**
