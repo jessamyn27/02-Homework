@@ -1,16 +1,12 @@
 # Code Refactor in HTML and CSS
 
-## Code Refactor Challenge using html5, css, semantic style guides, accessiblity standards
+#### Code Refactor Challenge using html5, css, semantic style guides, accessiblity standards
 
 ## <br>
 
----
-
 ## Table of Contents
 
----
-
-<br>
+## <br>
 
 **[Quick Links](#Quick-Links)**<br>
 **[First Looks](#First-Looks)**<br>
@@ -24,11 +20,7 @@
 
 ## <br>
 
----
-
 ## Quick Links
-
----
 
 - click here to view -->[final website](https://jessamyn27.github.io/02-Homework/)
 
@@ -36,46 +28,32 @@
 
 - click here to view --> [README GUIDE from UT](https://github.com/the-Coding-Boot-Camp-at-UT/UTA-VIRT-FSF-FT-06-2021-U-LOL/blob/master/01-HTML-Git-CSS/02-Homework/Homework-Guide/README.md)
 
-<br>
-
----
+## <br>
 
 ## First Looks
 
----
-
 # ![](assets/screenshots/website.png)
 
-<br>
+## <br>
 
 ## Wireframes
 
----
-
-<br>
-
----
+## <br>
 
 ## Bugs and Known Issues
 
----
-
 - Not responsive, links push out of container on lower width
 
-<br>
-
----
+## <br>
 
 ## Next Steps to Continue
-
----
 
 ### Next Steps for App UI and Functionality
 
 - More responsive
 - Text is not easy to read, consider color and/or size change
 
-<br>
+## <br>
 
 ### Next Steps for Code
 
@@ -87,13 +65,9 @@
 - Create more reusable classes and class combos in CSS
 - Set more standards for basic elements in CSS
 
-<br>
-
----
+## <br>
 
 ## Acceptance Criteria
-
----
 
 ### ✅ Technical Acceptance Criteria: 40%
 
@@ -136,13 +110,9 @@ You are required to submit the following for review:
 
 - The URL of the GitHub repository, with a unique name and a README that describes the project.
 
-<br>
-
----
+## <br>
 
 ### Bonus
-
----
 
 - 1. Transpile JS for compatibility with other browsers (Safari/iOS)
 - 2. Use of the Airbnb style guide
@@ -150,27 +120,19 @@ You are required to submit the following for review:
 - 4. Use JSDocs 3 pattern for comments
 - 5. Write a list of bugs or known issues for your implementation if needed
 
-<br>
-
----
+## <br>
 
 ### Deliverables
-
----
 
 - 1. All source files (ES6 and SCSS)
 - 2. HTML and CSS files (unminified)
 - 3. GitHub repository link in UT Portal
 - 4. Gitpages live website link in UT Portal
 
----
-
 ### License
-
----
 
 [MIT License](https://opensource.org/licenses/MIT)
 
-<br>
+## <br>
 
 **[Back Up To Top](#Code-Refactor-in-HTML-and-CSS)**
