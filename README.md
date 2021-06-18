@@ -17,7 +17,7 @@
 **[Wireframes](#Wireframes)**<br>
 **[Bugs and Known Issues](#Bugs-and-Known-Issues)**<br>
 **[Next Steps to Continue](#Next-Steps-to-Continue)**<br>
-**[Acceptance Criteria](#Acceptance-Criteria-/-MVP)**<br>
+**[Acceptance Criteria](#Acceptance-Criteria)**<br>
 **[Bonus](#Bonus)**<br>
 **[Deliverables](#Deliverables)**<br>
 **[License](#License)**<br>
@@ -91,7 +91,7 @@
 
 ---
 
-## Acceptance Criteria / MVP
+## Acceptance Criteria
 
 ---
 
@@ -140,7 +140,7 @@ You are required to submit the following for review:
 
 ---
 
-### 🌵 Bonus
+### Bonus
 
 ---
 
@@ -173,4 +173,4 @@ You are required to submit the following for review:
 
 <br>
 
-**[Back Up To Top](##-Code-Refactor-in-HTML-and-CSS)**
+**[Back Up To Top](#Code-Refactor-in-HTML-and-CSS)**
