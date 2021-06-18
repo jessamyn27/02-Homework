@@ -172,8 +172,5 @@ You are required to submit the following for review:
 [MIT License](https://opensource.org/licenses/MIT)
 
 <br>
-<br>
 
----
-<br>
 **[Back Up To Top](##-Code-Refactor-in-HTML-and-CSS)**
