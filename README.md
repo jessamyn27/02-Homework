@@ -12,7 +12,7 @@
 
 <br>
 
-**[🐬 Quick Links](#🐬-Quick-Links)**<br>
+**[🐬Quick Links](#🐬-Quick-Links)**<br>
 **[🕵️‍♀️ First Looks](#🕵️‍♀️-First-Looks)**<br>
 **[🌷 Wireframes](#🌷-Wireframes)**<br>
 **[🪲 Bugs and Known Issues](#🪲-Bugs-and-Known-Issues)**<br>
