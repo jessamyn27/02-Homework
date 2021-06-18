@@ -1,8 +1,10 @@
-# 🌎 02-Homework - Code Refactor in HTML and CSS 🌏
+# 🌎 Code Refactor in HTML and CSS 🌏
 
 ## Code Refactor Challenge using html5, css, semantic style guides, accessiblity standards
 
-<br>
+## <br>
+
+---
 
 ## 🦥 Table of Contents
 
@@ -10,16 +12,19 @@
 
 <br>
 
-- [🐬 Quick Links](#Quick-Links)
-- [🕵️‍♀️ First Looks](#First-Looks)
-- [🌷 Wireframes](#Wireframes)
-- [🪲 Bugs and Known Issues](#Bugs-and-Known-Issues)
-- [🐈 Next Steps to Continue](#Next-Steps-to-Continue)
-- [🛸 Acceptance Criteria](#Acceptance-Criteria)
-- [🌵 Bonus](#Bonus)
-- [👽 Deliverables](#Deliverables)
+**[🐬 Quick Links](#🐬-Quick-Links)**<br>
+**[🕵️‍♀️ First Looks](#🕵️‍♀️-First-Looks)**<br>
+**[🌷 Wireframes](#🌷-Wireframes)**<br>
+**[🪲 Bugs and Known Issues](#🪲-Bugs-and-Known-Issues)**<br>
+**[🐈 Next Steps to Continue](#🐈-Next-Steps-to-Continue)**<br>
+**[🛸 Acceptance Criteria](#🛸-Acceptance-Criteria-/-MVP)**<br>
+**[🌵 Bonus](#🌵-Bonus)**<br>
+**[👽 Deliverables](#👽-Deliverables)**<br>
+**[🐿️ License](#🐿️-License)**<br>
 
-<br>
+## <br>
+
+---
 
 ## 🐬 Quick Links
 
@@ -32,6 +37,8 @@
 - click here to view --> [README GUIDE from UT](https://github.com/the-Coding-Boot-Camp-at-UT/UTA-VIRT-FSF-FT-06-2021-U-LOL/blob/master/01-HTML-Git-CSS/02-Homework/Homework-Guide/README.md)
 
 <br>
+
+---
 
 ## 🕵️‍♀️ First Looks
 
@@ -47,6 +54,8 @@
 
 <br>
 
+---
+
 ## 🪲 Bugs and Known Issues
 
 ---
@@ -55,11 +64,13 @@
 
 <br>
 
+---
+
 ## 🐈 Next Steps to Continue
 
-### Next Steps for App UI and Functionality
-
 ---
+
+### Next Steps for App UI and Functionality
 
 - More responsive
 - Text is not easy to read, consider color and/or size change
@@ -67,8 +78,6 @@
 <br>
 
 ### Next Steps for Code
-
----
 
 - More responsive and browser compatibility in CSS using @media queries
 - Add more accessibility (label ever form control / / page lang idenity / all interactive elements keyboard accessible like sliders)
@@ -79,6 +88,8 @@
 - Set more standards for basic elements in CSS
 
 <br>
+
+---
 
 ## 🛸 Acceptance Criteria / MVP
 
@@ -127,6 +138,8 @@ You are required to submit the following for review:
 
 <br>
 
+---
+
 ### 🌵 Bonus
 
 ---
@@ -139,6 +152,8 @@ You are required to submit the following for review:
 
 <br>
 
+---
+
 ### 👽 Deliverables
 
 ---
@@ -148,8 +163,16 @@ You are required to submit the following for review:
 - 3. GitHub repository link in UT Portal
 - 4. Gitpages live website link in UT Portal
 
-### License
+---
+
+### 🐿️ License
 
 ---
 
 [MIT License](https://opensource.org/licenses/MIT)
+
+<br>
+<br>
+<br>
+---
+# **[🦔 Back Up To Top 🦔 ](#🌎-Code-Refactor-in-HTML-and-CSS-🌏)**<br>
