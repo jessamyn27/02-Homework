@@ -17,7 +17,7 @@
 
 ## Quick Links
 
-- click here to view -->[final website](https://jessamyn27.github.io/02-Homework/)
+- click here to view -->[final website](https://jessamyn27.github.io/Code-Refactor-in-HTML-and-CSS/)
 
 - click here too view --> [homework assignment details](https://github.com/the-Coding-Boot-Camp-at-UT/UTA-VIRT-FSF-FT-06-2021-U-LOL/blob/master/01-HTML-Git-CSS/02-Homework/README.md)
 
